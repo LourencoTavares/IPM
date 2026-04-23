@@ -77,7 +77,7 @@ O projeto seguiu um processo iterativo:
 ## Estrutura do Projeto
 
 - `bake-off-1-taguspark.pdf` -> enunciado do projeto
-- `L03G16.txt` -> drive com i ficheiro .fig
+- `L03G16.txt` -> drive com o ficheiro .fig
 - `README.md` -> documentação  
 
 ---
