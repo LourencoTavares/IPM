@@ -26,7 +26,7 @@ Desenvolver uma interface:
 - orientada às necessidades do utilizador  
 
 seguindo um processo iterativo de:
-> ideação → prototipagem → avaliação
+> ideação -> prototipagem -> avaliação
 
 ---
 
@@ -76,9 +76,9 @@ O projeto seguiu um processo iterativo:
 
 ## Estrutura do Projeto
 
-- `figma/` → protótipo de alta-fidelidade (.fig)  
-- `images/` → screenshots da interface  
-- `README.md` → documentação  
+- `figma/` -> protótipo de alta-fidelidade (.fig)  
+- `images/` -> screenshots da interface  
+- `README.md` -> documentação  
 
 ---
 
