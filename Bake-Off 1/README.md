@@ -13,7 +13,7 @@ O objetivo foi criar um **protótipo interativo de alta-fidelidade (PAF)**, dese
 - interagir com conteúdos gastronómicos  
 - explorar sugestões com base em ingredientes da época  
 
-O foco do projeto foi na **experiência do utilizador (UX)** e não na implementação funcional do sistema. :contentReference[oaicite:0]{index=0}  
+O foco do projeto foi na **experiência do utilizador (UX)** e não na implementação funcional do sistema.  
 
 ---
 
