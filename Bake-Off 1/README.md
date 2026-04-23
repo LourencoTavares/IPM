@@ -76,8 +76,8 @@ O projeto seguiu um processo iterativo:
 
 ## Estrutura do Projeto
 
-- `figma/` -> protótipo de alta-fidelidade (.fig)  
-- `images/` -> screenshots da interface  
+- `bake-off-1-taguspark.pdf` -> enunciado do projeto
+- `L03G16.txt` -> drive com i ficheiro .fig
 - `README.md` -> documentação  
 
 ---
