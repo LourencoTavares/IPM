@@ -8,7 +8,7 @@ Projeto desenvolvido no âmbito da UC de **Interação Pessoa-Máquina (2025/202
 
 Este projeto consiste na otimização de uma interface densa com o objetivo de **minimizar o tempo de seleção de alvos** numa grelha de **80 elementos (8x10)**.
 
-Foi fornecido um protótipo base em **p5.js**, que foi modificado para melhorar o desempenho do utilizador, mantendo as regras impostas pelo enunciado. :contentReference[oaicite:0]{index=0}  
+Foi fornecido um protótipo base em **p5.js**, que foi modificado para melhorar o desempenho do utilizador, mantendo as regras impostas pelo enunciado.  
 
 O sistema mede automaticamente:
 - taxa de sucesso (accuracy)  
